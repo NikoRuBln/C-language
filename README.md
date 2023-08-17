@@ -1,2 +1,2 @@
 # C-language
-Repo containing some explanations of features of the c programming language
+Repo containing some little programms written in the c programming language
